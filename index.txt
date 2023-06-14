@@ -1,0 +1,6 @@
+am doing
+the changes
+to see
+if the commit command
+is working pretty cool
+
